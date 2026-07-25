@@ -1,0 +1,24 @@
+{
+  "title": "prompt-injection-corpus",
+  "description": "A multilingual (EN+TR) corpus of prompt-injection & jailbreak techniques for defenders, each paired with its defense.",
+  "creators": [
+    {
+      "name": "Yurtsevenler, Fevzi Ege",
+      "affiliation": "AltaySec"
+    }
+  ],
+  "keywords": [
+    "LLM security",
+    "AI security",
+    "prompt injection",
+    "agent security",
+    "OWASP LLM Top 10",
+    "jailbreak",
+    "dataset",
+    "Turkish",
+    "red teaming"
+  ],
+  "license": "CC-BY-4.0",
+  "upload_type": "dataset",
+  "access_right": "open"
+}
