@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/banner.svg" alt="prompt-injection-corpus" width="100%"></p>
+
 <h1 align="center">prompt-injection-corpus</h1>
 
 <p align="center">
