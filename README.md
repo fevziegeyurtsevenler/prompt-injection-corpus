@@ -64,3 +64,21 @@ submit anything targeting a real, non-consenting system.
 ## License
 
 Corpus text: [CC BY 4.0](LICENSE). Attribution: *Fevzi Ege Yurtsevenler / AltaySec*.
+
+---
+
+## İlgili AltaySec Kaynakları
+
+- 📖 [Türkçe Prompt Injection: Saha Verisinden 5 Saldırı Kalıbı](https://altaysec.com.tr/arastirmalar/turkce-prompt-injection-5-saldiri-kalibi) — konunun derinlemesine Türkçe analizi
+- 🌐 [AltaySec Araştırmalar](https://altaysec.com.tr/arastirmalar/) — Türkçe yapay zekâ güvenliği yazıları
+
+## Atıf
+
+```bibtex
+@software{altaysec_prompt_injection_corpus_2026,
+  author = {{AltaySec}},
+  title  = {prompt-injection-corpus},
+  year   = {2026},
+  url    = {https://github.com/fevziegeyurtsevenler/prompt-injection-corpus}
+}
+```
